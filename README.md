@@ -44,7 +44,9 @@
 
 <!-- https://www.ibm.com/cloud/garage/demo/try-private-cloud-install-an-app -->
 https://www.ibm.com/cloud/garage/dte/tutorial/ibm-cloud-private-hosted-trial
+
 https://medium.com/@ernesenorelus
+
 https://github.com/ernesen/kubernetes
 
 
